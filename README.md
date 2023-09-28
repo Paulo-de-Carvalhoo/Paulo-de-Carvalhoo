@@ -1,11 +1,12 @@
 ### Olá eu sou o Paulo de Carvalho 👋
 "Construindo código e moldando o mundo digital, um commit de cada vez 🚀✨"
-
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulodecarvalhoo)
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-de-Carvalhoo&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia 
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
 
 <div style="display: inline_block"><br/>
   <img align="center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,6 +23,7 @@
 Entusiasta da tecnologia, comprometido com a educação e motivado a impactar vidas por meio da programação.
 
 ## E-mail
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
 <a href="webmorphdesign@gmail.com">webmorphdesign@gmail.com</a>
 
 
